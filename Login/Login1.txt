@@ -1,2 +1,9 @@
 we are now log in
+<<<<<<< HEAD
 afetr ignore, not working
+=======
+afetr ignore
+
+are you Thirsty
+drink something
+>>>>>>> First
